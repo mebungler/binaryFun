@@ -1,0 +1,131 @@
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Game.exe
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Game.pdb
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\MainWindow.baml
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\MainWindow.g.cs
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\App.g.cs
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game_MarkupCompile.cache
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.g.resources
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.exe
+c:\users\alisher\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.pdb
+D:\Lessons\C#\Game\Game\bin\Debug\Game.exe.config
+D:\Lessons\C#\Game\Game\obj\Debug\Game.exe
+D:\Lessons\C#\Game\Game\obj\Debug\Game.pdb
+D:\Lessons\C#\Game\Game\bin\Debug\Game.exe
+D:\Lessons\C#\Game\Game\bin\Debug\Game.pdb
+D:\Lessons\C#\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Game\Game\obj\Debug\MainWindow.baml
+D:\Lessons\C#\Game\Game\obj\Debug\MainWindow.g.cs
+D:\Lessons\C#\Game\Game\obj\Debug\App.g.cs
+D:\Lessons\C#\Game\Game\obj\Debug\Game_MarkupCompile.cache
+D:\Lessons\C#\Game\Game\obj\Debug\Game.g.resources
+D:\Lessons\C#\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Lessons\C#\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Game.exe.config
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.exe
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.pdb
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Game.exe
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Game.pdb
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\MainWindow.baml
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\MainWindow.g.cs
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\App.g.cs
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game_MarkupCompile.cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.g.resources
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\bin\Debug\Game.exe
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\bin\Debug\Game.pdb
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\MainWindow.baml
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\MainWindow.g.cs
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\App.g.cs
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game_MarkupCompile.cache
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.g.resources
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.Properties.Resources.resources
+c:\Users\Rakhmatjon Khasanov\Documents\Visual Studio 2013\Projects\Binary Fun(Easy)\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\Lesson\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+D:\Lesson\Binary Fun(Easy)\Game\bin\Debug\Game.exe
+D:\Lesson\Binary Fun(Easy)\Game\bin\Debug\Game.pdb
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\MainWindow.baml
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\MainWindow.g.cs
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\App.g.cs
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game_MarkupCompile.cache
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.g.resources
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Lesson\Binary Fun(Easy)\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.exe
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.pdb
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow.baml
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow.g.cs
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\App.g.cs
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game_MarkupCompile.cache
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.g.resources
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.Properties.Resources.resources
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainPage.baml
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainPage.g.cs
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.baml
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.g.cs
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.baml
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.g.cs
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Request.baml
+d:\Important\PC\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Request.g.cs
+E:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+E:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+E:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.exe
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainPage.baml
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow.baml
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.baml
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.baml
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Request.baml
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainPage.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Request.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\App.g.cs
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game_MarkupCompile.cache
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.g.resources
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.Properties.Resources.resources
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+e:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.pdb
+D:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+D:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+D:\R\Programming languages\C#\C# books\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+f:\Binary Fun(Easy)\Game\bin\Debug\Game.exe.config
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.exe
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.pdb
+f:\Binary Fun(Easy)\Game\bin\Debug\Game.exe
+f:\Binary Fun(Easy)\Game\bin\Debug\Game.pdb
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+f:\Binary Fun(Easy)\Game\obj\Debug\MainPage.baml
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow.baml
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.baml
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.baml
+f:\Binary Fun(Easy)\Game\obj\Debug\Request.baml
+f:\Binary Fun(Easy)\Game\obj\Debug\MainPage.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow2.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\MainWindow3.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\Request.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\App.g.cs
+f:\Binary Fun(Easy)\Game\obj\Debug\Game_MarkupCompile.cache
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.g.resources
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.Properties.Resources.resources
+f:\Binary Fun(Easy)\Game\obj\Debug\Game.csproj.GenerateResource.Cache
